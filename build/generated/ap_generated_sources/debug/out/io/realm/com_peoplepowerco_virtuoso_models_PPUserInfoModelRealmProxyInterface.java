@@ -1,0 +1,53 @@
+package io.realm;
+
+
+public interface com_peoplepowerco_virtuoso_models_PPUserInfoModelRealmProxyInterface {
+    public String realmGet$sUserInfoId();
+    public void realmSet$sUserInfoId(String value);
+    public String realmGet$sUserInfoName();
+    public void realmSet$sUserInfoName(String value);
+    public String realmGet$sUserInfoLoId();
+    public void realmSet$sUserInfoLoId(String value);
+    public String realmGet$sUserInfoLoName();
+    public void realmSet$sUserInfoLoName(String value);
+    public String realmGet$sUserFirstName();
+    public void realmSet$sUserFirstName(String value);
+    public String realmGet$sUserLastName();
+    public void realmSet$sUserLastName(String value);
+    public String realmGet$sCommunityName();
+    public void realmSet$sCommunityName(String value);
+    public String realmGet$sUserInfoLoEvent();
+    public void realmSet$sUserInfoLoEvent(String value);
+    public String realmGet$sUserInfoStartDay();
+    public void realmSet$sUserInfoStartDay(String value);
+    public String realmGet$sUserEmail();
+    public void realmSet$sUserEmail(String value);
+    public boolean realmGet$sUserVerified();
+    public void realmSet$sUserVerified(boolean value);
+    public int realmGet$nMailStatus();
+    public void realmSet$nMailStatus(int value);
+    public int realmGet$nSmsStatus();
+    public void realmSet$nSmsStatus(int value);
+    public int realmGet$nPhoneType();
+    public void realmSet$nPhoneType(int value);
+    public String realmGet$sUserStatus();
+    public void realmSet$sUserStatus(String value);
+    public String realmGet$sFileUploadPolicy();
+    public void realmSet$sFileUploadPolicy(String value);
+    public String realmGet$sPhoneNumber();
+    public void realmSet$sPhoneNumber(String value);
+    public String realmGet$stimezoneId();
+    public void realmSet$stimezoneId(String value);
+    public String realmGet$stimezoneName();
+    public void realmSet$stimezoneName(String value);
+    public String realmGet$sLanguage();
+    public void realmSet$sLanguage(String value);
+    public int realmGet$iLocationCount();
+    public void realmSet$iLocationCount(int value);
+    public boolean realmGet$bAnonymous();
+    public void realmSet$bAnonymous(boolean value);
+    public double realmGet$dLongitude();
+    public void realmSet$dLongitude(double value);
+    public double realmGet$dLatitude();
+    public void realmSet$dLatitude(double value);
+}

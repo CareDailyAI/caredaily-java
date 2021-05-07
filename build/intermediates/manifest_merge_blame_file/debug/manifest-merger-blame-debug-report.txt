@@ -1,0 +1,29 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.peoplepowerco.virtuoso"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="18"
+8-->/Users/hwcho/ReactNativeDev/myProject/android/peoplepower-java/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->/Users/hwcho/ReactNativeDev/myProject/android/peoplepower-java/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+11-->/Users/hwcho/ReactNativeDev/myProject/android/peoplepower-java/src/main/AndroidManifest.xml:4:5-79
+11-->/Users/hwcho/ReactNativeDev/myProject/android/peoplepower-java/src/main/AndroidManifest.xml:4:22-76
+12    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+12-->/Users/hwcho/ReactNativeDev/myProject/android/peoplepower-java/src/main/AndroidManifest.xml:5:5-76
+12-->/Users/hwcho/ReactNativeDev/myProject/android/peoplepower-java/src/main/AndroidManifest.xml:5:22-73
+13    <uses-permission
+13-->/Users/hwcho/ReactNativeDev/myProject/android/peoplepower-java/src/main/AndroidManifest.xml:6:5-8:38
+14        android:name="android.permission.GET_ACCOUNTS"
+14-->/Users/hwcho/ReactNativeDev/myProject/android/peoplepower-java/src/main/AndroidManifest.xml:7:9-55
+15        android:maxSdkVersion="22" />
+15-->/Users/hwcho/ReactNativeDev/myProject/android/peoplepower-java/src/main/AndroidManifest.xml:8:9-35
+16    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+16-->/Users/hwcho/ReactNativeDev/myProject/android/peoplepower-java/src/main/AndroidManifest.xml:9:5-75
+16-->/Users/hwcho/ReactNativeDev/myProject/android/peoplepower-java/src/main/AndroidManifest.xml:9:22-72
+17
+18</manifest>
